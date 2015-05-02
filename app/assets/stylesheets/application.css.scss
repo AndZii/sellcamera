@@ -1,0 +1,181 @@
+
+body, html {
+
+  font-family: 'PT sans', Arial;
+
+}
+
+h1 {
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 170%;
+  padding: 10px 0;
+  margin: 0 15px;
+  text-align: center;
+
+}
+
+.underline-a {
+  font-weight: bold;
+  font-size: 160%;
+
+}
+
+.logo-part {
+  color: #2f3136;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 200%;
+}
+
+
+.underline-a {
+  font-weight: bold;
+  font-size: 300%;
+  margin-bottom: 7px;
+
+}
+ul.dropdown-menu > li a {
+  font-size: 200%;
+  margin-bottom: 7px;
+}
+
+
+@media only screen and (min-width : 768px) {
+
+  .underline-a {
+    font-weight: bold;
+    font-size: 220%;
+
+  }
+
+
+  nav .underline-a {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 5px;
+
+
+  }
+  nav .underline-a:after {
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0px;
+    background: transparent;
+    transition: width .5s ease, background-color .5s ease;
+  }
+  .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+
+    color: #2f3136;
+  }
+  nav .underline-a:hover:after {
+    width: 100%;
+    background: #2f3136;
+  }
+
+  .navbar  {
+
+    height: 150px;
+    background: url('/big.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+
+
+  }
+}
+
+
+.footer a {
+  font-size: 120%;
+
+}
+
+.mobile-call {
+  height: 60px;
+  background: #ececec;
+  border-radius: 10px;
+  color: #2f3136;
+  font-size: 200%;
+  line-height: 60px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+
+
+.img {
+  float: right ;
+}
+
+.address {
+  margin: 0;
+  padding: 0;
+}
+
+.main-info p {
+
+  text-indent: 35px;
+  font-size: 130%;
+  text-align: justify;
+
+}
+
+.mobile-address {
+  margin: 0 20px;
+}
+
+.footer {
+  height: 140px;
+  background: white;
+  margin-top: 40px;
+}
+
+.footer {
+  //  border-top: 1px solid #736a67;
+  padding-top: 0px;
+}
+
+.addr {
+  font-size: 135%;
+}
+
+.mobile-address a {
+  font-size: 115% ;
+}
+
+@media only screen and (max-width : 768px) {
+
+  .navbar  {
+
+
+    background: url('/big.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+
+  }
+
+  .footer a {
+    font-size: 170%;
+  }
+
+
+
+
+}

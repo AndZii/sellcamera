@@ -37,10 +37,7 @@ h1 {
   margin-bottom: 7px;
 
 }
-ul.dropdown-menu > li a {
-  font-size: 200%;
-  margin-bottom: 7px;
-}
+
 
 
 @media only screen and (min-width : 768px) {
@@ -172,10 +169,14 @@ ul.dropdown-menu > li a {
   }
 
   .footer a {
-    font-size: 170%;
+    font-size: 200%;
   }
 
 
+  ul.dropdown-menu > li a {
+    font-size: 200%;
+    margin-bottom: 7px;
+  }
 
 
 }

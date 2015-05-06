@@ -1,0 +1,138 @@
+I, [2015-05-06T15:52:41.420472 #670]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 15:52:41 -0400
+I, [2015-05-06T15:52:41.424254 #670]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T15:52:41.432889 #670]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.6ms)
+I, [2015-05-06T15:52:41.436599 #670]  INFO -- :   Rendered shared/_navbar.html.erb (1.1ms)
+I, [2015-05-06T15:52:41.437745 #670]  INFO -- :   Rendered shared/_footer.html.erb (0.2ms)
+I, [2015-05-06T15:52:41.437940 #670]  INFO -- : Completed 200 OK in 14ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T15:52:43.031797 #670]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 15:52:43 -0400
+I, [2015-05-06T15:52:43.032513 #670]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T15:52:43.033159 #670]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T15:52:43.034255 #670]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T15:52:43.034381 #670]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T15:52:43.034511 #670]  INFO -- : Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T15:53:20.412738 #670]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 15:53:20 -0400
+I, [2015-05-06T15:53:20.413334 #670]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T15:53:20.413862 #670]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T15:53:20.414859 #670]  INFO -- :   Rendered shared/_navbar.html.erb (0.5ms)
+I, [2015-05-06T15:53:20.414972 #670]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T15:53:20.415118 #670]  INFO -- : Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T15:53:21.713871 #670]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 15:53:21 -0400
+I, [2015-05-06T15:53:21.714593 #670]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T15:53:21.715379 #670]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T15:53:21.717009 #670]  INFO -- :   Rendered shared/_navbar.html.erb (0.9ms)
+I, [2015-05-06T15:53:21.717150 #670]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T15:53:21.717329 #670]  INFO -- : Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T15:53:24.258607 #670]  INFO -- : Started GET "/where-to-sell-camera-nyc" for 127.0.0.1 at 2015-05-06 15:53:24 -0400
+I, [2015-05-06T15:53:24.259311 #670]  INFO -- : Processing by PagesController#about as HTML
+I, [2015-05-06T15:53:24.261013 #670]  INFO -- :   Rendered pages/about.html.erb within layouts/application (0.4ms)
+I, [2015-05-06T15:53:24.261938 #670]  INFO -- :   Rendered shared/_navbar.html.erb (0.5ms)
+I, [2015-05-06T15:53:24.262064 #670]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T15:53:24.262170 #670]  INFO -- : Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T15:53:27.423934 #670]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 15:53:27 -0400
+I, [2015-05-06T15:53:27.424606 #670]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T15:53:27.425232 #670]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T15:53:27.426309 #670]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T15:53:27.426438 #670]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T15:53:27.426603 #670]  INFO -- : Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:00:37.873435 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:00:37 -0400
+I, [2015-05-06T16:00:37.877325 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:00:37.885913 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.5ms)
+I, [2015-05-06T16:00:37.888398 #723]  INFO -- :   Rendered shared/_navbar.html.erb (1.0ms)
+I, [2015-05-06T16:00:37.889392 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.2ms)
+I, [2015-05-06T16:00:37.889571 #723]  INFO -- : Completed 200 OK in 12ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:00:39.346406 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:00:39 -0400
+I, [2015-05-06T16:00:39.355168 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:00:39.355969 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:00:39.357401 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.7ms)
+I, [2015-05-06T16:00:39.357542 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:00:39.357687 #723]  INFO -- : Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:00:41.216272 #723]  INFO -- : Started GET "/where-to-sell-camera-nyc" for 127.0.0.1 at 2015-05-06 16:00:41 -0400
+I, [2015-05-06T16:00:41.217055 #723]  INFO -- : Processing by PagesController#about as HTML
+I, [2015-05-06T16:00:41.218973 #723]  INFO -- :   Rendered pages/about.html.erb within layouts/application (0.4ms)
+I, [2015-05-06T16:00:41.220015 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.5ms)
+I, [2015-05-06T16:00:41.220133 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:00:41.220265 #723]  INFO -- : Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:01:07.102229 #723]  INFO -- : Started GET "/where-to-sell-camera-nyc" for 127.0.0.1 at 2015-05-06 16:01:07 -0400
+I, [2015-05-06T16:01:07.102897 #723]  INFO -- : Processing by PagesController#about as HTML
+I, [2015-05-06T16:01:07.103550 #723]  INFO -- :   Rendered pages/about.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:01:07.104669 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:01:07.104789 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:01:07.104989 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:01:09.747942 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:01:09 -0400
+I, [2015-05-06T16:01:09.748482 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:01:09.748992 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:01:09.749964 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.5ms)
+I, [2015-05-06T16:01:09.750088 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:01:09.750197 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:01:28.057790 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:01:28 -0400
+I, [2015-05-06T16:01:28.058498 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:01:28.059067 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:01:28.060119 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:01:28.060237 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:01:28.060374 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:01:28.978247 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:01:28 -0400
+I, [2015-05-06T16:01:28.978908 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:01:28.979563 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:01:28.980645 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:01:28.980791 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:01:28.980931 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:01:35.493064 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:01:35 -0400
+I, [2015-05-06T16:01:35.493669 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:01:35.494261 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:01:35.495438 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:01:35.495587 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:01:35.495731 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:02:16.839408 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:02:16 -0400
+I, [2015-05-06T16:02:16.840009 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:02:16.840671 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:02:16.841815 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:02:16.842007 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:02:16.842166 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:02:17.622511 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:02:17 -0400
+I, [2015-05-06T16:02:17.623149 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:02:17.623779 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:02:17.625156 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.8ms)
+I, [2015-05-06T16:02:17.625323 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:02:17.625473 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:02:18.306125 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:02:18 -0400
+I, [2015-05-06T16:02:18.306804 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:02:18.307439 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:02:18.308622 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:02:18.308751 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:02:18.308888 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:02:18.889772 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:02:18 -0400
+I, [2015-05-06T16:02:18.890435 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:02:18.891059 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:02:18.892226 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:02:18.892357 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:02:18.892502 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:05:33.785195 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:05:33 -0400
+I, [2015-05-06T16:05:33.785866 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:05:33.786438 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:05:33.787562 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:05:33.787686 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:05:33.787816 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:05:52.518967 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:05:52 -0400
+I, [2015-05-06T16:05:52.519613 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:05:52.520192 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:05:52.521291 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.5ms)
+I, [2015-05-06T16:05:52.521439 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.1ms)
+I, [2015-05-06T16:05:52.521569 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:05:53.430741 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:05:53 -0400
+I, [2015-05-06T16:05:53.431365 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:05:53.432037 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:05:53.433232 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:05:53.433360 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:05:53.433502 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:06:18.022514 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:06:18 -0400
+I, [2015-05-06T16:06:18.023125 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:06:18.023740 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:06:18.024927 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:06:18.025052 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:06:18.025181 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-05-06T16:06:19.045777 #723]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-05-06 16:06:19 -0400
+I, [2015-05-06T16:06:19.046448 #723]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-05-06T16:06:19.047058 #723]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-05-06T16:06:19.048217 #723]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2015-05-06T16:06:19.048348 #723]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-05-06T16:06:19.048496 #723]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)

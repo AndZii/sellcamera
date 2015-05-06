@@ -1,0 +1,198 @@
+/* line 2, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+body, html {
+  font-family: 'PT sans', Arial;
+}
+
+/* line 8, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+h1 {
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 170%;
+  padding: 10px 0;
+  margin: 0 15px;
+  text-align: center;
+}
+
+/* line 18, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+nav {
+  background: white;
+}
+
+/* line 22, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+h2 {
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 140%;
+  padding: 10px 0;
+  margin: 0 15px;
+}
+
+/* line 30, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+ul.list > li {
+  font-size: 140%;
+}
+
+/* line 34, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.logo-part {
+  color: #2f3136;
+}
+
+/* line 38, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.logo {
+  font-weight: bold;
+  font-size: 200%;
+}
+
+/* line 45, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.underline-a {
+  font-weight: bold;
+  font-size: 300%;
+  margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  /* line 55, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  .underline-a {
+    font-weight: bold;
+    font-size: 220%;
+  }
+
+  /* line 62, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  nav .underline-a {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 5px;
+  }
+
+  /* line 69, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  nav .underline-a:after {
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0px;
+    background: transparent;
+    transition: width .5s ease, background-color .5s ease;
+  }
+
+  /* line 78, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #2f3136;
+  }
+
+  /* line 82, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  nav .underline-a:hover:after {
+    width: 100%;
+    background: #2f3136;
+  }
+
+  /* line 87, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  .navbar {
+    height: 150px;
+    background: url("/big.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+  }
+}
+/* line 100, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.mobile-call {
+  height: 60px;
+  background: #ececec;
+  border-radius: 10px;
+  color: #2f3136;
+  font-size: 200%;
+  line-height: 60px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* line 111, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.red {
+  color: red;
+}
+
+/* line 115, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.blue {
+  color: blue;
+}
+
+/* line 119, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.green {
+  color: green;
+}
+
+/* line 123, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.footer a {
+  font-size: 120%;
+}
+
+@media only screen and (max-width: 768px) {
+  /* line 130, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  .navbar {
+    background: url("/big.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+  }
+
+  /* line 140, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  ul.dropdown-menu > li a {
+    font-size: 220%;
+    margin-bottom: 5px;
+  }
+
+  /* line 146, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+  .footer a {
+    font-size: 220%;
+    margin-bottom: 5px;
+  }
+}
+/* line 154, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.img {
+  float: right;
+}
+
+/* line 158, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.address {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 163, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.main-info p {
+  text-indent: 35px;
+  font-size: 130%;
+  text-align: justify;
+}
+
+/* line 171, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.mobile-address {
+  margin: 0 20px;
+}
+
+/* line 175, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.footer {
+  height: 140px;
+  background: white;
+  margin-top: 40px;
+}
+
+/* line 182, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.footer {
+  padding-top: 0px;
+}
+
+/* line 187, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.addr {
+  font-size: 135%;
+}
+
+/* line 191, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.mobile-address a {
+  font-size: 115%;
+}
+
+/* line 195, /Users/andrey/Desktop/projects/backup/sellcamera/app/assets/stylesheets/application.css.scss */
+.logo-part {
+  font-size: 200%;
+}

@@ -9,6 +9,24 @@ Rails.application.routes.draw do
 
   get 'where-to-sell-camera-nyc' => 'pages#about', as: :about
 
+  get 'sell-camera-in-brooklyn' => 'pages#brooklyn', as: :brooklyn
+
+  get 'sell-camera-in-manhattan' => 'pages#manhattan', as: :manhattan
+
+  get 'sell-camera-in-queens' => 'pages#queens', as: :queens
+
+  get 'sell-camera-in-staten-island' => 'pages#staten_island', as: :staten_island
+
+  get 'sell-camera-in-bronx' => 'pages#bronx', as: :bronx
+
+  get 'sell-camera-in-long-island' => 'pages#long_island', as: :long_island
+
+  get 'sell-camera-in-connecticute' => 'pages#connecticute', as: :connecticute
+
+  get 'sell-camera-in-new_jersey' => 'pages#new_jersey', as: :new_jersey
+
+
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -2409,3 +2409,101 @@ Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-15 13:40:2
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-15 13:40:24 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-10-30 21:57:28 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+  Rendered shared/_navbar.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 59ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-10-30 21:57:29 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-10-30 21:57:29 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-10-30 21:57:52 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered shared/_navbar.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-10-30 21:57:52 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-10-30 21:57:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-10-30 21:58:13 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered shared/_navbar.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-10-30 21:58:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-10-30 21:58:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-10-30 21:58:53 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered shared/_navbar.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-10-30 21:58:53 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-10-30 21:58:53 -0400
+
+
+Started GET "/where-to-sell-camera-nyc" for 127.0.0.1 at 2016-10-30 21:59:03 -0400
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navbar.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-10-30 21:59:03 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-10-30 21:59:03 -0400
+
+
+Started GET "/where-to-sell-camera-nyc" for 127.0.0.1 at 2016-10-30 22:02:23 -0400
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navbar.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 13ms (Views: 12.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-10-30 22:02:23 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-10-30 22:02:23 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-10-30 22:02:52 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered shared/_navbar.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-10-30 22:02:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-10-30 22:02:52 -0400
